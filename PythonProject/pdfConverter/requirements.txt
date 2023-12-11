@@ -1,0 +1,4 @@
+matplotlib
+pymupdf
+opencv-python
+miraelogger~=0.0.3
